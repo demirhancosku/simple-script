@@ -1,0 +1,94 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Condensed&subset=latin-ext';
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    .tg img {
+        margin: 0;
+        padding: 0;
+        height: 145px;
+    }
+
+    .tg td {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 14px;
+        padding: 0px 0px;
+        border: 0 solid;
+        overflow: hidden;
+        word-break: normal;
+        text-align: left;
+    }
+
+    .tg th {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        text-align: left;
+        padding: 0px 0px;
+        margin: 0;
+        border: 0 solid;
+        overflow: hidden;
+        word-break: normal;
+        vertical-align: top;
+    }
+
+    #title {
+        margin-top: 25px;
+        margin-left: 18px;
+        display: block;
+    }
+
+    #name {
+        font-size: 18px;
+    }
+
+    #slash {
+        font-size: 13px;
+        padding-left: 3px;
+        padding-right: 2px;
+    }
+
+    #job {
+
+    }
+
+    #emailname{
+    }
+
+    #emailat{
+        margin-left: -3px;
+        margin-right: -3px;
+    }
+
+    #emaildomain{
+
+    }
+
+    #divider{
+        height: 8px;
+        display: block;
+    }
+
+    .font28 {
+        font-size: 14px;
+    }
+
+    .red{
+        color: #e92340;
+    }
+
+    .black{
+        color: #414141;
+    }
+    a{
+        text-underline: none;
+        text-decoration: none
+    }
+    a:hover{
+        color: #e92340;
+    }
+    a:active{
+        color: #414141;
+    }
